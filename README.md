@@ -12,11 +12,14 @@ I choose this topic in NTU_MBDS_DeepLearning course
 * DIN```AUC: 0.7789```
 * DIEN without negative samples.```AUC0.7798```
 ### performance table and graph:
-Table::
+* Table:
+
 ![Performance_table](https://github.com/Niyx52094/figures/blob/main/result_table.png)
-Bar_chart:
+* Bar_chart:
+
 ![Performance_graph](https://github.com/Niyx52094/figures/blob/main/result_graph.png)
-AUC_curve:
+* AUC_curve:
+
 ![AUC_curve](https://github.com/Niyx52094/figures/blob/main/AUC_curve.png)
 
 
