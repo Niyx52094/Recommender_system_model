@@ -1,6 +1,6 @@
 # Recommender System model
 I choose this topic in NTU_MBDS_DeepLearning course
-
+The code is inside the "BS6204 project.ipynb", Other files save the trained model with training history.
 ### Dataset:
 * Moive_lens-100k
 ### Model:
