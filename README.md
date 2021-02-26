@@ -2,7 +2,10 @@
 I choose this topic in NTU_MBDS_DeepLearning course
 The code is inside the "BS6204 project.ipynb", Other files save the trained model with training history.
 ### Dataset:
-* Moive_lens-100k
+* **Moive_lens-100k**
+### Data engineering
+* The data was cleaned and the user history behaviours are extracted.
+* The final data contains human sequential behaviours,user features, movie features and other context characteristics.
 ### Model:
 * Base_embedding_model```AUC: 0.744```
 * deep_crossing```AUC: 0.76```
